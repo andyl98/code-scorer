@@ -7,7 +7,7 @@ python3 train.py \
   --lr 2e-5 \
   --weight_decay 0.01 \
   --save_dir "./results" \
-  --dataset "Roblox/code_score_gpt35" \
+  --dataset "Roblox/lua_script_scorer_35_0726" \
   --model "bigcode/starencoder" \
   --bf16 \
   --no_fp16
